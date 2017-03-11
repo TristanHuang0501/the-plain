@@ -3,10 +3,9 @@ layout: page
 title: About
 ---
 
-Hello.
+Hi! I will be so happy if you can open this oneday. 
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+I know nothing about **love**, but i do know that: 
 
-**Just write thing that matters..**
+*In love folly is always sweet.*
 
-Enjoy!
