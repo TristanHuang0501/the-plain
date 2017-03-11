@@ -52,6 +52,7 @@ blockquote {
   -webkit-animation-name: bounce;
   a {
     background: #ddd url("gravatar_wrapper.png");
+    background: #ddd url("img/star.png");
     color: #000;
     text-decoration: none;
     font-weight: 700;
@@ -73,7 +74,7 @@ blockquote {
       display: inline-block !important;
     }
     .gravatar {
-      margin-top: 5px;
+      margin-top: 0px;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       border-radius: 50%;
