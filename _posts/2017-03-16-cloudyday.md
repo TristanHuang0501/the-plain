@@ -19,7 +19,7 @@ updated: 2017-03-16 15:51
 
 <div align="center">
 	<figure>
-		<img src="https://github.com/TristanHuang0501/the-plain/raw/master/img/post-mt-nizhiming.jpg">
+		<img src="https://github.com/TristanHuang0501/the-plain/raw/master/img/post-mt-nizhiming.jpeg">
 		<figcaption>倪在西藏</figcaption>
 	</figure>
 </div>
