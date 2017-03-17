@@ -6,7 +6,7 @@ updated: 2017-03-16 15:51
 
 <div align="center">
 	<audio src="http://mp3.haoduoge.com/s/2017-03-16/1489676106.mp3"
- controls loop preload style="width: 300px;">有你相随</audio>
+ controls loop preload style="width: 300px;">in my life</audio>
 </div>
 
 
