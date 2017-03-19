@@ -7,7 +7,7 @@ updated: 2017-03-19 12:52
 
 &#160; &#160; &#160; &#160;但是吃完午饭来到实验室，看了昨天最新一集的《歌手》之后这种被天气和其他因素带来的郁闷情绪一扫而空，~~只剩下了困，因为想睡午觉了~~，开个玩笑:smile:,这集里面的林忆莲、lion和梁博好棒啊！特别是lion和梁博，前者带动了全场，后者更是充满了冲劲，让人看着倍受感动。
 
-<iframe  align="center" width="560" height="315" src="https://www.youtube.com/embed/Psr28JFrx_s" frameborder="0" allowfullscreen></iframe>
+<embed src="http://player.video.qiyi.com/0d1d240e81350fe16a0748be02f30604/0/0/v_19rrafiln8.swf-albumId=636347000-tvId=636347000-isPurchase=0-cnId=6" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 &#160; &#160; &#160; &#160;第一眼看到《灵魂歌手》这个歌名的时候下意识是觉得这个名字起的有点大了，哪有歌手敢自己称呼自己为灵魂歌手的，几年不出现在电视里就沉淀出了狂妄么？但是一上来他的精气神就让人眼前一亮，歌词里面的朴素与真诚也让人联想到他这几年的不骄不躁，安心做音乐的态度。更专业的点评不出来，但是视频里的现场的确是带动了我的情绪呀。
 
