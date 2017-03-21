@@ -16,7 +16,6 @@ updated: 2017-03-19 12:52
 
 &#160; &#160; &#160; &#160;为啥今天的题目叫Never on Sunday？因为这首歌呀:blush:
 
-啊啊啊
 <div align="center">
 
 	<audio src="http://mp3.haoduoge.com/s/2017-03-19/1489902795.mp3"
