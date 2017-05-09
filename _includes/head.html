@@ -36,6 +36,14 @@
 
 		ga( 'create', '{{ site.google_analytics }}', 'auto' );
 		ga( 'send', 'pageview' );
+		
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?958925d7f68f88e6ab6a2ba1dfaebfd4";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
 	</script>
 
 {% endif %}
